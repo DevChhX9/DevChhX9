@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hey there!</h3>
 
 - 🌱 I’m currently learning **max 8 cylic'74, java**
 
