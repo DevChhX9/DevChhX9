@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3 align="center">Hey there!</h3>
 
-- 🌱 I’m currently learning **max 8 cylic'74, java**
+- 🌱 I’m currently learning **max 8 cylic'74, java, UE5**
 
 - 💬 Ask me about **my work**
 
